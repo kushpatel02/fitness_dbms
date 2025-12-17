@@ -41,7 +41,3 @@ The system generates various analytics visualizations:
 - Mobile app integration
 - Advanced ML-based progress prediction
 - Multi-location support
-
-## Authors:
-- Kush Patel
-- Rutvij Surti
