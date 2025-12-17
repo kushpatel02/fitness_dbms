@@ -1,4 +1,4 @@
-# Fitness Management System
+# Level - Up Fitness Management System
 A comprehensive database management system for fitness centers that tracks memberships, trainers, workouts, and user progress. This project demonstrates both relational (MySQL) and NoSQL (MongoDB) database implementations with Python-based analytics and visualizations.
 ## Project Overview
 This system provides a complete solution for managing fitness center operations, including user subscriptions, trainer assignments, workout tracking, and performance analytics. The project showcases database design principles, data migration strategies, and real-world analytics implementation.
